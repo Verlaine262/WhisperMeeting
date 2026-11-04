@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.build-temp/
+.pyinstaller-cache/
+build/
+dist/
+*.spec
+sessions/
+*.log
+preferences.json
+cuda/
+model-turbo/
+cache/
+hf-cache/
+cuda-cache/
+temp/
