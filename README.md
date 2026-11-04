@@ -9,7 +9,7 @@ Windows 本地 GPU 实时会议字幕。采集 WASAPI 输出音频，使用 fast
 - 自动保存会议原文与恢复用临时字幕；缓存位于程序目录。
 
 ## 运行
-Windows x64、兼容 CUDA 12/cuDNN 9 的 NVIDIA 显卡。开发机为 RTX 5060 8GB。
+Windows x64、兼容 CUDA 12/cuDNN 9 的 NVIDIA 显卡。
 程序包解压后，model-turbo 和 cuda 目录必须位于 WhisperMeeting.exe 同级。
 点击开始并等待预热。所有依赖就位后识别不需联网。
 
